@@ -1,3 +1,3 @@
 # wua
 
-Be Rich.
+Wise-Up Your Action.
