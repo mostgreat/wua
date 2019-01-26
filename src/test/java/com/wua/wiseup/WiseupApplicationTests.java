@@ -11,6 +11,7 @@ public class WiseupApplicationTests {
 
 	@Test
 	public void contextLoads() {
+
 	}
 
 }
